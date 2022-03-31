@@ -1,0 +1,1 @@
+Zadaniem programu jest zbieranie i przetwarzanie danych publicznych miasta Gdynia w jednym miejscu
