@@ -1,1 +1,1 @@
-Zadaniem programu jest zbieranie i przetwarzanie danych publicznych miasta Gdynia w jednym miejscu
+The program collect and process public data of the city of Gdynia in one place
